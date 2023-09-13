@@ -9,3 +9,6 @@ Also, you must have an environmental variable USERNAME set on your windows machi
 
 A Approved stamp shows up on the user's form for the month to let them know it's approved
 Ability to pull data from an elan statement to import into the app. (CSV format)
+
+
+![Alt text](https://github.com/markgriep/ElanRecon/blob/main/ElanSample1000.jpg "Screenshot of the app.")
