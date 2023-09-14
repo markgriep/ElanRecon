@@ -11,4 +11,10 @@ A Approved stamp shows up on the user's form for the month to let them know it's
 Ability to pull data from an elan statement to import into the app. (CSV format)
 
 
-![Alt text](https://github.com/markgriep/ElanRecon/blob/main/ElanSample1000.jpg "Screenshot of the app.")
+![Alt text](https://github.com/markgriep/ElanRecon/blob/main/ElanSampleUser.jpg "Main user screen.")
+
+![Alt text](https://github.com/markgriep/ElanRecon/blob/main/ElanSampleSampleReport.jpg "Sample Report.")
+
+![Alt text](https://github.com/markgriep/ElanRecon/blob/main/ElanSampleWaiting.jpg "Waiting for approval.")
+
+
