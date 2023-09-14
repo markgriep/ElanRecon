@@ -12,15 +12,14 @@ Ability to pull data from an elan statement to import into the app. (CSV format)
 
 
 ![Alt text](https://github.com/markgriep/ElanRecon/blob/main/ElanSampleUser.jpg "Main user screen.")
-Main screen that the user spends time in.
-
-
+Main screen that the user spends time in.<br>
+<br>
 ![Alt text](https://github.com/markgriep/ElanRecon/blob/main/ElanSampleReport.jpg "Sample Report.")
-This is a sample of one of the printable or PDF reports.
-
-
+This is a sample of one of the printable or PDF reports.<br>
+<br>
 ![Alt text](https://github.com/markgriep/ElanRecon/blob/main/ElanSampleWaiting.jpg "Waiting for approval.")
-This is one of the admin screens showing who has yet to finish filling their forms.
+This is one of the admin screens showing who has yet to finish filling their forms.<br>
+<br>
 
 
 
